@@ -38,9 +38,11 @@ Writing Blog Posts: Write new posts in the blog section.
 
 **### 4. Commit and Push Your Changes**
 Once you’ve made your changes, commit them with a meaningful message:
+```
 git add .
 git commit -m "Add description of your changes"
 git push origin your-branch-name
+```
 
 **### 5. Submit a Pull Request**
 After pushing your changes, open a pull request on GitHub. Describe what you’ve done, and your changes will be reviewed.
