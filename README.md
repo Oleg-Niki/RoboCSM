@@ -29,14 +29,14 @@ Before making any changes, create a new branch for your contribution:
 git checkout -b your-branch-name
 
 
-**### 3. Make Your Changes**
+**3. Make Your Changes**
 Feel free to improve or add content. Whether it's updating the project showcase, adding new events to the calendar, or writing blog posts—your contributions are valuable!
 
 Adding New Projects: Update the projects section in the HTML file.
 Adding Events: Add your events to the JavaScript function in the events section.
 Writing Blog Posts: Write new posts in the blog section.
 
-**### 4. Commit and Push Your Changes**
+**4. Commit and Push Your Changes**
 Once you’ve made your changes, commit them with a meaningful message:
 ```
 git add .
@@ -44,7 +44,7 @@ git commit -m "Add description of your changes"
 git push origin your-branch-name
 ```
 
-**### 5. Submit a Pull Request**
+**5. Submit a Pull Request**
 After pushing your changes, open a pull request on GitHub. Describe what you’ve done, and your changes will be reviewed.
 
 **Development Setup**
