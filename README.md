@@ -23,7 +23,7 @@ We welcome contributions from all club members! Here's how you can contribute:
 To get started, clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
-
+```
 ### 2. Create a New Branch
 Before making any changes, create a new branch for your contribution:
 git checkout -b your-branch-name
