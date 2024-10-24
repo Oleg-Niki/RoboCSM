@@ -52,7 +52,9 @@ No special tools are required to run this website. You can simply open the index
 
 **Useful Commands**
 Start a local server: You can use Live Server in VS Code or run the following if you have Python installed:
+```
 python -m http.server
+```
 This will start a local web server on http://localhost:8000.
 
 **Guidelines**
